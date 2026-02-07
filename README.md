@@ -13,7 +13,7 @@ The goal of this repository is to:
 
 ## 📂 Contents
 
-- Notes on Running a Chapter (Tip, tricks, and Fun)
+- [Notes on building a chapter into a vibrant community](https://github.com/OWASP-Ottawa/chapter-notes/blob/main/Building-an-OWASP-Chapter-into-a-Vibrant-Community.md)
 ### TBD
 - Operational guides (roles, governance, planning)
 - Event and outreach templates
